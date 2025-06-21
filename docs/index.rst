@@ -9,7 +9,7 @@ How to Login System Mechanic Account?: A Step-by-Step Guide
 
 .. image:: https://iolosystemmechanicloginaccount.readthedocs.io/en/latest/_images/login.png
    :alt: My Project Logo
-   :width: 500px
+   :width: 300px
    :align: center
    :target: https://aclogportal.com/systemmechanic-login-account
 ----------------------------------------------
