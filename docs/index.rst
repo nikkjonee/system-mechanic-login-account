@@ -7,7 +7,7 @@ How to Login System Mechanic Account?: A Step-by-Step Guide
    :maxdepth: 2
    :caption: Contents:
 
-.. image:: https://iolosystemmechanicloginaccount.readthedocs.io/en/latest/_images/login.png
+.. image:: https://systemmechanicsigninaccount.readthedocs.io/en/latest/_images/login.png
    :alt: My Project Logo
    :width: 300px
    :align: center
